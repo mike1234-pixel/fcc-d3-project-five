@@ -3,7 +3,7 @@
 
 # Video Game Sales Data Top 100: TreeMap
 
-This is a data visualisation project created with help from the *d3.js*, a data vis library used to manually translate raw data into svg shapes.
+This is a data visualisation project created with help from *d3.js*, a data vis library used to manually translate raw data into svg shapes.
 
 ![treemap-screenshot](https://user-images.githubusercontent.com/57681651/98582519-f97e5680-22ba-11eb-94f4-cb4c6a4742a9.jpg)
 
