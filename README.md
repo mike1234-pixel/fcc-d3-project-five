@@ -7,4 +7,4 @@ This is a data visualisation project created with help from the *d3.js*, a data 
 
 ![treemap-screenshot](https://user-images.githubusercontent.com/57681651/98582519-f97e5680-22ba-11eb-94f4-cb4c6a4742a9.jpg)
 
-(Top 100 Most Sold Video Games Grouped by Platform)[https://mike1234-pixel.github.io/fcc-d3-project-five/]
+[Top 100 Most Sold Video Games Grouped by Platform](https://mike1234-pixel.github.io/fcc-d3-project-five/)
