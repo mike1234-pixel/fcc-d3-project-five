@@ -1,5 +1,15 @@
 body {
   font-family: arial;
+  background-image: url("./images/videogame-controller.webp");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  text-align: center;
+  color: white;
+}
+
+h1 {
+  text-shadow: 2px 2px 8px #ff0000;
 }
 
 #title {
@@ -21,4 +31,5 @@ body {
 }
 #legend {
   margin-left: 10px;
+  font-size: 10px;
 }

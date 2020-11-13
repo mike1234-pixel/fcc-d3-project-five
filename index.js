@@ -138,7 +138,7 @@ d3.queue()
         .attr("y", (d, i) => d.y0 + 15 + i * 10) // offset by index
         .text((d) => d.text)
         .attr("font-size", "0.6em")
-        .attr("fill", "white");
+        .attr("fill", "black");
 
       var categories = root.leaves().map((nodes) => {
         return nodes.data.category;
@@ -148,7 +148,7 @@ d3.queue()
       });
 
       const legendContainerHeight = 70;
-      const legendContainerWidth = 600;
+      const legendContainerWidth = 800;
 
       d3.select("#legend")
         .append("svg")
@@ -169,7 +169,7 @@ d3.queue()
         .append("rect")
         .attr("class", "legend-item")
         .attr("height", 30)
-        .attr("width", 30)
+        .attr("width", 40)
         .attr("fill", (d) => color(d))
         .attr("x", (d, i) => {
           return i * 40;
